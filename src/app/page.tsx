@@ -4,10 +4,11 @@ import Navbar from './components/Navbar'
 
 
 import { InternalSymbolName } from 'typescript'
-import Items from './components/items'
+import Items from './components/Items'
 
 export default function Home() {
   return (
+    
     <div className="p-7 bg-black">
       <div className="max-w-7xl">
 
